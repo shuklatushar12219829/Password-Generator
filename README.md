@@ -1,6 +1,7 @@
-# Password-Genrator
-![Screenshot 2023-12-31 201955](https://github.com/shuklatushar12219829/Password-Generator/assets/115138208/e4a07b7f-0e2b-41ac-b41e-9d7fe3cf7992)
+# Password-Generator
 
+![Screenshot 2023-12-31 201955](https://github.com/shuklatushar12219829/Password-Generator/assets/115138208/e4a07b7f-0e2b-41ac-b41e-9d7fe3cf7992)
+Link - https://lively-blini-0e0415.netlify.app
 Description:
 HTML (index.html):
 
